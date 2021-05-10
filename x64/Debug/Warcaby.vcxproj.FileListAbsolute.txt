@@ -1,0 +1,6 @@
+C:\Programowanie\Warcaby\x64\Debug\Warcaby.exe
+C:\Programowanie\Warcaby\x64\Debug\Warcaby.pdb
+C:\Programowanie\76effae0-gr21-repo\Projekt\x64\Debug\Warcaby.exe
+C:\Programowanie\76effae0-gr21-repo\Projekt\x64\Debug\Warcaby.pdb
+C:\Programowanie\Warcraby\x64\Debug\Warcaby.exe
+C:\Programowanie\Warcraby\x64\Debug\Warcaby.pdb

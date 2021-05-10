@@ -1,0 +1,2 @@
+C:\Programowanie\Warcaby\Debug\Warcaby.exe
+C:\Programowanie\Warcaby\Debug\Warcaby.pdb
